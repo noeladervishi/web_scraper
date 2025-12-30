@@ -1,0 +1,14 @@
+node_modules/
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+frontend/.next/
+frontend/out/
+backend/dist/
+backend/build/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode/

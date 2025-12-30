@@ -1,0 +1,1 @@
+{"version":3,"file":"scrape.types.d.ts","sourceRoot":"","sources":["scrape.types.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,YAAY,GAAG;IACzB,KAAK,EAAE,MAAM,GAAG,IAAI,CAAC;IACrB,eAAe,EAAE,MAAM,GAAG,IAAI,CAAC;IAC/B,GAAG,EAAE,MAAM,EAAE,CAAC;IACd,SAAS,EAAE,MAAM,CAAC;CACnB,CAAC"}

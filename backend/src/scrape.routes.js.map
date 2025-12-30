@@ -1,0 +1,1 @@
+{"version":3,"file":"scrape.routes.js","sourceRoot":"","sources":["scrape.routes.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,aAAa,EAAE,MAAM,wBAAwB,CAAC;AAEvD,MAAM,CAAC,OAAO,UAAU,oBAAoB,CAAC,GAAY;IACvD,GAAG,CAAC,IAAI,CAAC,aAAa,EAAE,aAAa,CAAC,CAAC;IACvC,oCAAoC;IACpC,GAAG,CAAC,GAAG,CAAC,aAAa,EAAE,aAAa,CAAC,CAAC;AACxC,CAAC"}
