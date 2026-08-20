@@ -74,7 +74,7 @@ Gracefully handles issues without breaking the experience.
 1. **Clone the repository** 
 
 ```bash
-git clone <url>
+git clone https://github.com/noeladervishi/web_scraper.git
 cd web_scraper
 ```
 
